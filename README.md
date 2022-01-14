@@ -1,5 +1,5 @@
 # IST707
 ## Data Analytics
 
-My name is Jami Edwards.
-I am confused about a lot of the terminology, but I'm hoping this is not a huge component of the class.
+My name is Jami, and I'm currently enrolled at Syracuse University in the Data Analytics Masters program.
+When I am not working or studying, I enjoy playing with my dogs. 
